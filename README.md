@@ -17,3 +17,4 @@ Below are visualizations from the three questions above:
 <img width="983" alt="Screen Shot 2022-11-24 at 9 32 51 AM" src="https://user-images.githubusercontent.com/118031922/203810546-16c17ce9-44a7-4f7d-85a6-0ce3554a2dab.png">
 
 **Deaths by State**
+<img width="983" alt="Screen Shot 2022-11-24 at 9 34 31 AM" src="https://user-images.githubusercontent.com/118031922/203810810-2bacf40a-2b30-4d7a-be52-f57b8d0a8355.png">
