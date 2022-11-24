@@ -21,3 +21,6 @@ Below are visualizations from the three questions above:
 
 **Pairwise Correlation Table**
 <img width="965" alt="Screen Shot 2022-11-24 at 9 35 33 AM" src="https://user-images.githubusercontent.com/118031922/203811282-ef2b87b7-a852-4abc-b192-94723aceea27.png">
+
+**CONCLUSION**
+Based on my analysis, there is in fact a strong positive correlation between Deaths and Population, showing a value of 0.89 or 89%. Therefore, as the population within a state increases, you can expect the number of deaths to increase as well. This can be due to various reasons which are outside the scope of this dataset.
