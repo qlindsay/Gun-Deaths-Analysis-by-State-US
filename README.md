@@ -20,3 +20,4 @@ Below are visualizations from the three questions above:
 <img width="983" alt="Screen Shot 2022-11-24 at 9 34 31 AM" src="https://user-images.githubusercontent.com/118031922/203810810-2bacf40a-2b30-4d7a-be52-f57b8d0a8355.png">
 
 **Pairwise Correlation Table**
+<img width="965" alt="Screen Shot 2022-11-24 at 9 35 33 AM" src="https://user-images.githubusercontent.com/118031922/203811282-ef2b87b7-a852-4abc-b192-94723aceea27.png">
