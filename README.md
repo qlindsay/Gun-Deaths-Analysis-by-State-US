@@ -10,3 +10,7 @@ My goal with this dataset was to analyze and explore the best way to communicate
 
 Let's begin our analysis!
 Hope you enjoy! All feedback is welcomed :)
+
+Below are visualizations from the three questions above:
+
+**Population by State**
